@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/PlantAlive/static/css/main.d6684b9b.css",
+    "main.js": "/PlantAlive/static/js/main.2df16d04.js",
+    "static/media/video01.mp4": "/PlantAlive/static/media/video01.8449696716770f8e1482.mp4",
+    "static/media/PvZ3.png": "/PlantAlive/static/media/PvZ3.37855b1797416bbb581e.png",
+    "static/media/PvZ5.png": "/PlantAlive/static/media/PvZ5.6ce57c713f25439284d8.png",
+    "static/media/PvZ01.png": "/PlantAlive/static/media/PvZ01.adb4c7256e9d52e5710e.png",
+    "static/media/PvZ2.png": "/PlantAlive/static/media/PvZ2.879de5f736b640180d04.png",
+    "static/media/PvZ12.png": "/PlantAlive/static/media/PvZ12.7c83214841dc6907637f.png",
+    "static/media/PvZ8.png": "/PlantAlive/static/media/PvZ8.3b4a85257de512e93c36.png",
+    "static/media/PvZ4.png": "/PlantAlive/static/media/PvZ4.999735e522bd5d6d8f12.png",
+    "static/media/PvZ9.png": "/PlantAlive/static/media/PvZ9.b315acd87a01588e225c.png",
+    "static/media/PvZ10.png": "/PlantAlive/static/media/PvZ10.a0d465c5352f059d2f4d.png",
+    "static/media/PvZ6.png": "/PlantAlive/static/media/PvZ6.50b5c01d17005ed247a7.png",
+    "static/media/PvZ7.png": "/PlantAlive/static/media/PvZ7.200e7494961cbc865095.png",
+    "static/media/B01.gif": "/PlantAlive/static/media/B01.2a579f606a01cba3c1e0.gif",
+    "static/media/logo.jpg": "/PlantAlive/static/media/logo.8c2687bb3365cd84402e.jpg",
+    "static/media/PvZ1.png": "/PlantAlive/static/media/PvZ1.1a45f991fe252c5476f6.png",
+    "static/media/PvZ11.png": "/PlantAlive/static/media/PvZ11.ecc73220bd3c90af8dbc.png",
+    "static/media/Zom5.jpg": "/PlantAlive/static/media/Zom5.79f073f8a6bd731578d4.jpg",
+    "static/media/Zom8.jpg": "/PlantAlive/static/media/Zom8.f34838785db468487d69.jpg",
+    "static/media/Zom9.jpg": "/PlantAlive/static/media/Zom9.a081879fb5b4d66ddf28.jpg",
+    "static/media/Zom4.jpg": "/PlantAlive/static/media/Zom4.0debe232a1b6981477f7.jpg",
+    "static/media/Zom3.jpg": "/PlantAlive/static/media/Zom3.e05ba24d7eca1bc3cb23.jpg",
+    "static/media/Zom1.jpg": "/PlantAlive/static/media/Zom1.7faa1c87729edb1fe583.jpg",
+    "static/media/Zom7.jpg": "/PlantAlive/static/media/Zom7.d047bdf908ee388fc5b0.jpg",
+    "static/media/Zom6.jpg": "/PlantAlive/static/media/Zom6.7592883aafabef7b6088.jpg",
+    "index.html": "/PlantAlive/index.html",
+    "main.d6684b9b.css.map": "/PlantAlive/static/css/main.d6684b9b.css.map",
+    "main.2df16d04.js.map": "/PlantAlive/static/js/main.2df16d04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6684b9b.css",
+    "static/js/main.2df16d04.js"
+  ]
+}
